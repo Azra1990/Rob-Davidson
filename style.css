@@ -1,0 +1,116 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    color: royalblue;
+    font-size: 50px;
+    line-height: 0.4;
+}
+.name-color{
+    color: tomato;
+}
+.top-class{
+    height: 400px;
+}
+.half-sec{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 3%;
+}
+.half-sec img{
+    width: 25%;
+    height: 60%;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    float: right;
+    text-align: right;
+    padding: 8px;
+    margin-right: 3%;
+}
+.link-botton{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+    
+    
+
+.down-loed{
+    background-image: linear-gradient(45deg,rgba(255, 0, 0, 0.603),rgb(255, 71, 71));
+    border-radius: 10px;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  cursor: pointer;
+  font-size: 15px;}
+
+
+
+.top-two{
+    height: 400px;
+}
+.sec-two img{
+    width: 30%;
+    height: 60%;
+    float: left;
+padding-top: 0;}
+.sec-three{
+    height: 40%;
+    width: 30%;
+    padding-left: 50%;
+    padding-bottom: 0;
+    padding-top: 5%;}
+    h2{
+        font-size: 40px;
+        color: darkslateblue;
+    }
+    
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+
+    
+    
+
+    
+    
+
+
+    
+    
+   
+    
+    
+
+    
+    
+    
+
+
+
+
+
+
+
+
