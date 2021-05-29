@@ -2,7 +2,7 @@ body{
     font-family: 'Lato', sans-serif;
 }
 h1{
-    color: royalblue;
+    color:midnightblue;
     font-size: 50px;
     line-height: 0.4;
 }
@@ -65,7 +65,10 @@ li{
     width: 30%;
     height: 60%;
     float: left;
-padding-top: 0;}
+padding-top: 0;
+margin-left: 5%;
+
+}
 .sec-three{
     height: 40%;
     width: 30%;
@@ -74,18 +77,109 @@ padding-top: 0;}
     padding-top: 5%;}
     h2{
         font-size: 40px;
-        color: darkslateblue;
+        color: midnightblue;
+    } 
+    .working-pro{
+        height: 500px;
+        
+        margin-top: 8%;
+        margin-left: 5%;
+        margin-right: 3%;
+        background-color: rgba(128, 128, 128, 0.123);
     }
+    .text-color{
+        padding-left: 30%;
+    }
+    .last-color{
+        color: tomato;
+    }
+    .pro-div{
+        
+        
+        width: 350px;
+        float: left;
+    margin-left: 2%;
+        height: 340px;
+        border-radius: 10px;
+        
+    }
+    .pro-div img{
+        width: 350px;
+    }
+    .box-color{
+        background-color:white;
+    }
+    h3{
+        color: midnightblue;
+        padding-left: 20px;
+    }
+    .padd-ing{
+        padding-left: 20px;
+    }
+    .last-sec{
+        height: 200px;
+        
+        padding-top: 90px;
+        margin-top: 8%;
+        padding-left: 60px;
+        width: 900px;
+        margin-left: 10%;
+        margin-right: 10%;
+        border-radius: 10px;
+        background-image:linear-gradient( 45deg,rgb(61, 51, 122),rgb(88, 88, 139));
+        
+        
+    }
+
+    .work-col{
+        color: white;
+    }
+    .let-chat{
+        text-decoration: none;
+        color: white;
+        background-image: linear-gradient(45deg,rgba(255, 0, 0, 0.603),rgb(255, 71, 71));
+       padding: 20px 30px;
+       border-radius: 10px;
+       
+    }
+    .foo-ter {
+        
+     height: 220px;
+     
+     
+     margin-top: 3%;
+
+     
+}
+.hell-o{
+    font-size: 20px;
+    text-align: center;
+    
     
 
+}
+.hello-2{
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.li-ne{
+    line-height:0.3 ;
+}
+.ima-ge{
+    height: 40px;
+   float: left;
+   
+   
+   margin-left: 280px;
+}
 
 
 
-
-
+       
+        
     
     
-
     
     
 
